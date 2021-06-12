@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7098015705968981580}
   - component: {fileID: 4355457957782412056}
   m_Layer: 0
-  m_Name: bane
+  m_Name: spring bend
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45,5 +45,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   k: 1
   rest: 10
+  c: 5
   p0: {fileID: 0}
   p1: {fileID: 0}

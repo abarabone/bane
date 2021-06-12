@@ -6,10 +6,12 @@ public class Bane : MonoBehaviour
 {
 
     //public Vector3 line { get; private set; }
-    public Vector3 v;// { get; private set; }
+    public Vector3 ftt { get; private set; }
+    //public Vector3 f;
 
     public float k;
     public float rest;
+    public float c;
 
     public Point p0;
     public Point p1;
@@ -28,8 +30,11 @@ public class Bane : MonoBehaviour
 
         var len = line.magnitude;
 
-        var f = (len - this.rest) * this.k;// L‚Ñ‚É’ïR‚µAk‚à‚¤‚Æ‚·‚é—Í‚ªƒvƒ‰ƒX
+        var f0 = (len - this.rest) * this.k;// L‚Ñ‚É’ïR‚µAk‚à‚¤‚Æ‚·‚é—Í‚ªƒvƒ‰ƒX
+        var ft0 = line / len * f0 * Time.deltaTime;
 
-        this.v = line / len * f * Time.deltaTime;
+        var ft1 = this.c * (p1.vt - p0.vt);
+
+        this.ftt = (ft0 - ft1) * Time.deltaTime;
     }
 }
