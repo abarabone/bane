@@ -108,7 +108,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72de2f512e43a9345950ee9a3e463cf1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vt: {x: 0, y: 0, z: 0}
   mass: 0
   weight: 0
   up: {fileID: 0}
   down: {fileID: 0}
+  isForcePosition: 0
+  Rate: 1

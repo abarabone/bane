@@ -19,20 +19,32 @@ public class Point : MonoBehaviour
     [HideInInspector]
     public Bane down;
 
+    public bool isForcePosition;
+    public float Rate;
+
     // Start is called before the first frame update
     void Start()
     {
         this.prepos = this.transform.position;
     }
 
-    // Update is called once per frame
+    private void Update()
+    {
+        if (this.isForcePosition) this.transform.position = this.prepos;
+        
+        var nowpos = this.transform.position;
+        var nextpos = nowpos + vt * this.Rate;
+
+        this.transform.position = nextpos;
+    }
     void LateUpdate()
     {
         var nowpos = this.transform.position;
-        var nextpos = nowpos + vt;
+        //var nextpos = nowpos + vt * this.Rate;
+        var nextpos = this.transform.position;
 
-        if (this.up != null) nextpos += this.up.ftt;
-        if (this.down != null) nextpos -= this.down.ftt;
+        if (this.up != null) nextpos += this.up.ftt * this.Rate;
+        if (this.down != null) nextpos -= this.down.ftt * this.Rate;
 
         this.transform.position = nextpos;
         this.prepos = nowpos;
