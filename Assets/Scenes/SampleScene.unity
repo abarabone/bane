@@ -740,6 +740,10 @@ PrefabInstance:
       propertyPath: Rate
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7333953820802585333, guid: 68146c4c52c695844b32e32494b671fb, type: 3}
+      propertyPath: isForcePosition
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7333953820802585337, guid: 68146c4c52c695844b32e32494b671fb, type: 3}
       propertyPath: m_RootOrder
       value: 2

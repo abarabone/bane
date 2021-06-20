@@ -656,3 +656,227 @@ Received Import Request.
 Start importing Assets/spring stretch.prefab using Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3d1fedab070da6ac739080a861f5a6') in 0.179545 seconds
   Import took 0.189168 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.964 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1581.
+Total: 5.200600 ms (FindLiveObjects: 0.517300 ms CreateObjectMapping: 0.222600 ms MarkObjects: 4.333100 ms  DeleteObjects: 0.122600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003068 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.144 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.4 MB.
+System memory in use after: 64.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1583.
+Total: 5.916500 ms (FindLiveObjects: 0.590400 ms CreateObjectMapping: 0.232200 ms MarkObjects: 4.964000 ms  DeleteObjects: 0.124000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1893.125983 seconds.
+  path: Assets/spring stretch.prefab
+  artifactKey: Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spring stretch.prefab using Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2385c6799ccd3b9c6ff4ba210ccddd9') in 0.087424 seconds
+  Import took 0.092225 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002918 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.6 MB.
+System memory in use after: 63.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1585.
+Total: 5.504400 ms (FindLiveObjects: 0.598600 ms CreateObjectMapping: 0.243600 ms MarkObjects: 4.534700 ms  DeleteObjects: 0.121900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.101290 seconds.
+  path: Assets/spring stretch.prefab
+  artifactKey: Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spring stretch.prefab using Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df44671fda80fca131eb7a68943e02cd') in 0.117699 seconds
+  Import took 0.123532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.829031 seconds.
+  path: Assets/spring stretch.prefab
+  artifactKey: Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spring stretch.prefab using Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df44671fda80fca131eb7a68943e02cd') in 0.015619 seconds
+  Import took 0.020211 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002724 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.757 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.7 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 8.707700 ms (FindLiveObjects: 1.388500 ms CreateObjectMapping: 0.333300 ms MarkObjects: 6.833100 ms  DeleteObjects: 0.146800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.852914 seconds.
+  path: Assets/spring stretch.prefab
+  artifactKey: Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spring stretch.prefab using Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8c336b85a9851dd7f797197ff20c66') in 0.148902 seconds
+  Import took 0.156664 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003875 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.079 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1589.
+Total: 11.491200 ms (FindLiveObjects: 0.564000 ms CreateObjectMapping: 0.187200 ms MarkObjects: 10.599800 ms  DeleteObjects: 0.134000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 285.874643 seconds.
+  path: Assets/spring stretch.prefab
+  artifactKey: Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spring stretch.prefab using Guid(5a07357ff697b844ea4a5fb3b012fe88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889f9de8107e6d39cf20726b6fbedf24') in 0.103933 seconds
+  Import took 0.110348 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003365 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.766 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1591.
+Total: 5.247900 ms (FindLiveObjects: 0.497200 ms CreateObjectMapping: 0.154500 ms MarkObjects: 4.464700 ms  DeleteObjects: 0.126700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003471 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.912 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 4.685500 ms (FindLiveObjects: 0.467600 ms CreateObjectMapping: 0.103900 ms MarkObjects: 3.989200 ms  DeleteObjects: 0.120000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.097289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.874 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 5.418600 ms (FindLiveObjects: 0.562000 ms CreateObjectMapping: 0.417200 ms MarkObjects: 4.313000 ms  DeleteObjects: 0.121800 ms)
+

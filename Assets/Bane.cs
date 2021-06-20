@@ -31,10 +31,10 @@ public class Bane : MonoBehaviour
         var len = line.magnitude;
 
         var f0 = (len - this.rest) * this.k;// L‚Ñ‚É’ïR‚µAk‚à‚¤‚Æ‚·‚é—Í‚ªƒvƒ‰ƒX
-        var ft0 = line / len * f0 * Time.deltaTime;
+        var ft0 = line / len * f0 * Time.fixedDeltaTime;
 
         var ft1 = this.c * (p1.vt - p0.vt);
 
-        this.ftt = (ft0 - ft1) * Time.deltaTime;
+        this.ftt = (ft0 - ft1) * Time.fixedDeltaTime;
     }
 }
